@@ -34,7 +34,7 @@ To set up the frontend, follow these steps:
 
 ## Additional Information
 
-- The backend API endpoints can be found in the `BackendController` class.
+- The backend API endpoints can be found in the `AuctionController` class.
 - The frontend React components can be found in the `src/components` directory.
 - This project uses Axios for making HTTP requests to the backend API.
 
