@@ -1,0 +1,6 @@
+[submodule "AuctionHouseBackend"]
+	path = AuctionHouseBackend
+	url = https://github.com/levihoulton/AuctionHouseBE.git
+[submodule "AuctionHouseFrontend"]
+	path = AuctionHouseFrontend
+	url = https://github.com/levihoulton/AuctionHouseFE.git
